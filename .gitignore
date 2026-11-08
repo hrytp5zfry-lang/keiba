@@ -3,4 +3,5 @@
 
 # report.htmlだけ許可
 !report.html
+!elizabeth_details.html
 !.gitignore
