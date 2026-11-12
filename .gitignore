@@ -4,4 +4,5 @@
 # report.htmlだけ許可
 !report.html
 !elizabeth_details.html
+!elizabeth_rain.html
 !.gitignore
